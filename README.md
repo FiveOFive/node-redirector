@@ -1,6 +1,6 @@
 # node-redirector
 
-A very simple node project to redirect all http and https requests.
+A tiny node project to redirect all http and https requests.
 
 ## Usage
 
